@@ -36,4 +36,4 @@ Since K-Means clustering falls within the realm of unsupervised learning, no 'tr
   - Must be >= 2.
   - This specifies the maximum number of clusters for the specified cluster methic in K-Means clustering.
 
-The Google Colab notebook pixelate_reduce_color.ipynb contains the class and example usage. The input_image_path should be updated to your image path, the other parameters can be updated as needed. It is highly recommended to resize the image to a smaller size (using the `resize_ratio` parameter) if the original image is large in size, as processing a large image could take up substantial memory.
+The Google Colab notebook pixelate_cluster_color.ipynb contains the class and example usage. The input_image_path should be updated to your image path, the other parameters can be updated as needed. It is highly recommended to resize the image to a smaller size (using the `resize_ratio` parameter) if the original image is large in size, as processing a large image could take up substantial memory.
