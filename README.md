@@ -2,7 +2,7 @@
 
 Refer to the project page on my website for detailed discussion on the project.
 
-Project page: https://rachlllg.github.io/project/2024-Pixelate_Images_and_Reduce_Colors_using_KMeans/
+Project page: https://rachlllg.github.io/project/2024-Pixelate_Images_and_Cluster_Colors_using_KMeans/
 
 ## Background:
 One of my hobbies is designing and creating yarn crafts, I wanted to use C2C technique in crochet to make blankets and needed a reliable (and free) way to create pixelated images and group/cluster the colors in the image to a reasonable number (it would be awfully difficult to make a blanket with 200 different shades of each color 😆). So I figured why not write a Python code to do exactly this!
