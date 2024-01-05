@@ -1,4 +1,4 @@
-# Project_Pixelate-Images-and-Reduce-Colors-using-KMeans
+# Project_Pixelate-Images-and-Cluster-Colors-using-KMeans
 
 Refer to the project page on my website for detailed discussion on the project.
 
