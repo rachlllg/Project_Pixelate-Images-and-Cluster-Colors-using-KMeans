@@ -15,7 +15,7 @@ The pixelation process is written in vanilla Python, while K-Means clustering is
 - parameter validation: pydantic
 
 ## Results:
-Since K-Means clustering falls within the realm of unsupervised learning, no 'training' was neccessary. The class `Process` takes in below 6 parameters and calls the various supporting functions within the class to process the input image. The parameters are validated using Pydantic.
+Since K-Means clustering falls within the realm of unsupervised learning, no 'training' was neccessary. The class `Processed` takes in below 6 parameters and calls the various supporting functions within the class to process the input image. The parameters are validated using Pydantic.
 1. input_image_path (str): Path to the input image file.
 2. resize_ratio (float): The ratio by which the image should be resized. 
   - Only positive values are accepted. 
